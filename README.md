@@ -65,5 +65,8 @@
 - Developing [Analog Calibrator](https://github.com/gorramin/analog-calibrator) — an embedded hardware project for generating 0–10V and 4–20mA signals with a custom PCB.
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gorramin&show_icons=true&locale=en" alt="stats" /></p>
+
+
 
 
