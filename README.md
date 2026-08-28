@@ -1,6 +1,8 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src=""  />
-</div>
+<h1 data-importer="text" align="center">Welcome Comrades</h1>
+
+###
+
+<img src="assets/punisher.gif" width="1000" alt="Header">
 
 ###
 
@@ -8,10 +10,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
-
-###
-
-<h1 data-importer="text" align="center">Welcome Comrades</h1>
 
 ###
 
