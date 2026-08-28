@@ -1,6 +1,10 @@
-<h1 data-importer="text" align="center">Welcome Comrades</h1>
+<h1 data-importer="welcom" align="center">Welcome Comrades</h1>
 
 ###
+<div data-importer="rank" align="center">
+  <p><b>Mechatronics Engineering Student | Hardware Designer & Firmware Developer | CAD Modeling & Software Development Enthusiast </b></p>
+</div>
+<br>
 
 <img src="assets/punisher.gif" width="1000" alt="Header">
 
@@ -64,8 +68,6 @@
 
 - Developing [Analog Calibrator](https://github.com/gorramin/analog-calibrator) — an embedded hardware project for generating 0–10V and 4–20mA signals with a custom PCB.
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gorramin&show_icons=true&locale=en" alt="stats" /></p>
 
 
 
