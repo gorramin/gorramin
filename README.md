@@ -21,7 +21,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Operator Profile</h3>
+# Operator Profile
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Active Missions</h3>
+# Active Missions
 
 ###
 
