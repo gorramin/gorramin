@@ -25,7 +25,7 @@
 
 ###
 
-<p data-importer="text" align="left">Mechatronic Engineering student, with strong skills in <b>Electronics Design</b> and <b>Embedded Software Development</b>. Passionate about <b>CAD modeling</b> and <b>software development</b>. In my free time, I enjoy solving problems on  <a href="https://www.codewars.com/users/gorramin">@Codewars</a> and doing pull-ups.</p>
+<p data-importer="text" align="left">Mechatronic Engineering student, with strong skills in <b>Electronics Design</b> and <b>Embedded Software Development</b>. Passionate about <b>CAD modeling</b> and <b>software development</b>. In my free time, I enjoy solving problems on  <a href="https://www.codewars.com/users/gorramin">@Codewars</a>, going fishing and doing pull-ups.</p>
 
 ###
 
