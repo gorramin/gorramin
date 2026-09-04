@@ -54,6 +54,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <br>
   <img src="assets/freecad.png" height="40" alt="freecad logo"  />
   <img width="12" />
   <img src="assets/solidworks.png" height="40" alt="solidworks logo"  />
