@@ -8,7 +8,7 @@
 
 <img src="assets/banner.png" width="1000" alt="Header">
 
-> ❝Never compromise. Not even in the face of Armageddon❞
+<!-- > ❝Never compromise. Not even in the face of Armageddon❞ -->
 
 ###
 
