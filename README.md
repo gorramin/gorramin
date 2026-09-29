@@ -2,7 +2,7 @@
 
 ###
 <div data-importer="rank" align="center">
-  <p><b> Mechatronic Engineering Student | Hardware Designer & Firmware Developer | CAD Modeling & Software Development Enthusiast </b></p>
+  <p><b> Hardware Designer & Firmware Developer | CAD Modeling & Software Development Enthusiast </b></p>
 </div>
 <br>
 
