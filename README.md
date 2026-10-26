@@ -2,7 +2,7 @@
 
 ###
 <div data-importer="rank" align="center">
-  <p><b> Hardware Designer & Firmware Developer | CAD Modeling & Software Development Enthusiast </b></p>
+  <p><b> Hardware Designer & Firmware Developer </b></p>
 </div>
 <br>
 
@@ -25,7 +25,7 @@
 
 ###
 
-<p data-importer="text" align="left"><b>Electronics Designer</b> and <b>Embedded Software Developer</b>. Passionate about <b>CAD modeling</b> and <b>software development</b>. In my free time, I enjoy solving problems on  <a href="https://www.codewars.com/users/gorramin">@Codewars</a>, going fishing and doing pull-ups.</p>
+<p data-importer="text" align="left"><b>Hardware Designer</b> and <b>Embedded Software Developer</b>. Passionate about <b>CAD modeling</b> and <b>software development</b>. In my free time, I enjoy solving problems on  <a href="https://www.codewars.com/users/gorramin">@Codewars</a>, going fishing and doing pull-ups.</p>
 
 ###
 
@@ -65,6 +65,8 @@
   <img width="12" />
   <img src="assets/solidworks.png" height="40" alt="solidworks logo"  />
   <img width="12" />
+  <img src="https://images.seeklogo.com/logo-png/48/2/autodesk-fusion-360-logo-png_seeklogo-482400.png" height="40" alt="python logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -73,7 +75,11 @@
 
 ###
 
-- Developing [Analog Calibrator](https://github.com/gorramin/analog-calibrator) — an embedded hardware project for generating 0–10V and 4–20mA signals with a custom PCB.
+- Developing [Signal Generator](https://github.com/gorramin/signal-generator) — 4-channel signal generator for industrial applications, supporting 0–10 V, 4–20 mA, and
+PWM signals, based on an Arduino Nano with an OLED display.
+
+- Developing [KiCad Documentation Generator](https://github.com/gorramin/kicad-documentation-generator) — an automated tool to generate project documentation from KiCad projects, integrating CI/CD to streamline and automate the documentation workflow.
+
 
 
 
