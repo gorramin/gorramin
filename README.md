@@ -66,7 +66,7 @@
   <img src="assets/freecad.png" height="40" alt="freecad logo"  />
   <img width="12" />
   <img src="assets/solidworks.png" height="30" alt="solidworks logo"  />
-  <img width="12" />
+  <img width="8" />
   <img src="https://images.seeklogo.com/logo-png/48/2/autodesk-fusion-360-logo-png_seeklogo-482400.png" height="40" alt="python logo"  />
   <img width="12" />
 </div>
