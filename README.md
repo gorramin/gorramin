@@ -16,7 +16,7 @@
 
 <div data-importer="socials" align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  <a href="https://x.com/gorRAMmin">
+  <a href="https://x.com/al4atrion">
     <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
 </div>
@@ -27,7 +27,7 @@
 
 ###
 
-<p data-importer="text" align="left"><b>Hardware Designer</b> and <b>Embedded Software Developer</b>. Passionate about <b>CAD modeling</b> and <b>software development</b>. In my free time, I enjoy solving problems on  <a href="https://www.codewars.com/users/gorramin">@Codewars</a>, going fishing and doing pull-ups.</p>
+<p data-importer="text" align="left"><b>Hardware Designer and Embedded Software Developer, passionate about CAD modeling, software development. Fascinated by anything that flies, from RC aircraft and FPV drones to full-scale aircraft. In my free time, I enjoy solving problems <a href="https://www.codewars.com/users/gorramin">@Codewars</a>, going fishing and doing pull-ups.</p>
 
 ###
 
