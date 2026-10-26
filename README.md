@@ -1,10 +1,12 @@
 <h1 data-importer="welcom" align="center">Welcome Comrades</h1>
 
 ###
+<!-- 
 <div data-importer="rank" align="center">
   <p><b> Hardware Designer & Firmware Developer </b></p>
 </div>
 <br>
+-->
 
 <img src="assets/banner.png" width="1000" alt="Header">
 
