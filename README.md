@@ -81,9 +81,6 @@
 - Developing [Signal Generator](https://github.com/gorramin/signal-generator) — 4-channel signal generator for industrial applications, supporting 0–10 V, 4–20 mA, and
 PWM signals, based on an Arduino Nano with an OLED display.
 
-- Developing [KiCad Documentation Generator](https://github.com/gorramin/kicad-documentation-generator) — an automated tool to generate project documentation from KiCad projects, integrating CI/CD to streamline and automate the documentation workflow.
-
-
 
 
 
