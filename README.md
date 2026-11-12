@@ -27,7 +27,7 @@
 
 ###
 
-<p data-importer="text" align="left"><b>I'm primarily an Industrial IT/OT Technician, as well as a Hardware Designer and Embedded Software Developer, passionate about CAD modeling and software development. Fascinated by anything that flies, from RC planes and FPV drones to full scaled UAVs Planes. In my free time, I enjoy solving problems <a href="https://www.codewars.com/users/gorramin">@Codewars</a>, going fishing and doing pull-ups.</p>
+<p data-importer="text" align="left"><b>I'm primarily an XD, as well as a Hardware Designer and Embedded Software Developer, passionate about CAD modeling and software development. Fascinated by anything that flies, from RC planes and FPV drones to full scaled UAVs Planes. In my free time, I enjoy solving problems <a href="https://www.codewars.com/users/gorramin">@Codewars</a>, going fishing and doing pull-ups.</p>
 
 ###
 
